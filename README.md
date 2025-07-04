@@ -41,14 +41,4 @@ It’s designed to mimic real-world retail KPIs in an analytical storytelling fo
 
 ---
 
-## 🪪 License
 
-This project is licensed under the MIT License.
-"""
-
-# Save the README to a markdown file
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w") as file:
-    file.write(readme_content)
-
-readme_path
