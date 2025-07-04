@@ -20,34 +20,7 @@ This Power BI dashboard provides an in-depth analysis of retail sales performanc
 - **White Chocolate Macadamia Nut**, when selected, shows widespread profitability, making it a standout product across multiple countries.
 - **Revenue contributions** align closely with population and sales volume but vary by region due to differing product mixes.
 
----
 
-## 📁 Repository Structure
-
-global-sales-profit-dashboard/
-├── sabiha-powerbi.pbix
-├── report/
-│ └── Global_Sales_Profit_Summary.docx
-├── screenshots/
-│ └── dashboard-preview.png
-├── data/
-│ └── original_dataset_link.txt
-├── LICENSE
-└── README.md
-
-yaml
-Always show details
-
-Copy
-
----
-
-## 📄 Project Report
-
-A formal executive summary is provided in the [`report/`](report/) folder:  
-📄 [Global_Sales_Profit_Summary.docx](report/Global_Sales_Profit_Summary.docx)
-
----
 
 ## 📦 Dataset Source
 
